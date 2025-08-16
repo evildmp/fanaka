@@ -1,0 +1,365 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../online-presence.rst:3
+msgid "Your presence, online"
+msgstr ""
+
+#: ../online-presence.rst:6
+msgid ""
+"Everyone can know about you, and you can help make sure they learn the "
+"right things."
+msgstr ""
+
+#: ../online-presence.rst:7
+msgid ""
+"When you're applying for a job, at some point someone is going to look "
+"you up on the web - to verify something you've said, to learn more or "
+"just out of plain curiosity. The deeper you go into the process, the more"
+" deeply they will look."
+msgstr ""
+
+#: ../online-presence.rst:9
+msgid "What they find can help you, or hurt you."
+msgstr ""
+
+#: ../online-presence.rst:13
+msgid "Don't let your online presence harm you"
+msgstr ""
+
+#: ../online-presence.rst:15
+msgid ""
+"Let's start with a very simple principle: there should be nothing online "
+"representing you that could be embarrassing if a prospective employer "
+"were to see it. What comes up if you search for yourself, on different "
+"search engines, and when you look past the first page of results?"
+msgstr ""
+
+#: ../online-presence.rst:19
+msgid "How you conduct yourself"
+msgstr ""
+
+#: ../online-presence.rst:23
+msgid ""
+"Think of your online personality as part of your personality, not as "
+"something separate."
+msgstr ""
+
+#: ../online-presence.rst:25
+msgid ""
+"What people see online is what most of them will see first, and it's what"
+" you will be judged by. There's no reason to believe that someone will "
+"behave in a substantially different way in person from the way they do "
+"online."
+msgstr ""
+
+#: ../online-presence.rst:27
+msgid ""
+"Everyone is entitled to have passions and beliefs, even strong beliefs "
+"and opinions. There's nothing wrong with being - for example - a "
+"political activist or a fanatical sports enthusiast, but how you conduct "
+"yourself in those pursuits really matters. You must do it politely, "
+"courteously, respectfully, kindly."
+msgstr ""
+
+#: ../online-presence.rst:31
+msgid "Unattractive associations"
+msgstr ""
+
+#: ../online-presence.rst:33
+msgid ""
+"You should not be writing or participating in anything anywhere online "
+"that you would not like someone to associate with you. You don't even "
+"have to be an active participant for it to matter: **who you follow and "
+"like online says something about you too**."
+msgstr ""
+
+#: ../online-presence.rst:35
+msgid "**Stay away** online from people, communities and discussions that:"
+msgstr ""
+
+#: ../online-presence.rst:37
+msgid ""
+"voice expressions of racism, sexism or contempt for ethnicities, "
+"religions or cultures"
+msgstr ""
+
+#: ../online-presence.rst:38
+msgid ""
+"embrace \"edgy\" opinions and positions, or seem to delight in adopting "
+"stances of controversy, or indulge in jokes that deliberately sail close "
+"to the wind"
+msgstr ""
+
+#: ../online-presence.rst:39
+msgid "normalise discourtesy, disrespect or unkindness in their interactions"
+msgstr ""
+
+#: ../online-presence.rst:41
+msgid ""
+"They are toxic, and even a passing association with them has the power to"
+" put an immediate end to a job application."
+msgstr ""
+
+#: ../online-presence.rst:43
+msgid ""
+"It's also advisable not to become associated with certain prevalent "
+"online cultures, especially the \"get rich quick\" culture associated "
+"with dubious Internet technologies such as cryptocurrencies or NFTs, or "
+"the \"tech bro\" culture."
+msgstr ""
+
+#: ../online-presence.rst:47
+msgid "Unwelcome traces"
+msgstr ""
+
+#: ../online-presence.rst:49
+msgid ""
+"Previous generations enjoyed a luxury: mistakes they made would generally"
+" soon be forgotten, and if they said or did something really stupid in "
+"public, it wasn't going to be recorded forever. Your online history on "
+"the other hand will linger on for a very, very long time."
+msgstr ""
+
+#: ../online-presence.rst:51
+msgid ""
+"It means that whatever you're doing *now*, something that you did years "
+"ago could still be problematic for you."
+msgstr ""
+
+#: ../online-presence.rst:53
+msgid ""
+"Consider deleting old posts and comments, if you're not happy about them,"
+" or even entire accounts - but some things you will simply have to live "
+"with, and the best you will be able to do is hope that they are pushed "
+"out of the picture by a newer online presence that you take more care "
+"over."
+msgstr ""
+
+#: ../online-presence.rst:57
+msgid "Having a successful online presence"
+msgstr ""
+
+#: ../online-presence.rst:59
+msgid ""
+"Much more interesting and rewarding is how to build a positive online "
+"presence that works for you."
+msgstr ""
+
+#: ../online-presence.rst:63
+msgid "Your website or weblog"
+msgstr ""
+
+#: ../online-presence.rst:65
+msgid ""
+"If you have the time and energy to maintain it, a website of your own is "
+"a valuable thing. (Depending how you do it, you can be responsible for "
+"every aspect of it from design to deployment, and that in itself "
+"demonstrates a kind of technical engagement.) It can be an \"about me\" "
+"presence with real personality."
+msgstr ""
+
+#: ../online-presence.rst:69
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../online-presence.rst:71
+msgid ""
+"Have you been noticed by an employer because of your online presence? "
+"What has worked for you? What advice would you give someone else?"
+msgstr ""
+
+#: ../online-presence.rst:75
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../online-presence.rst:77
+msgid ""
+"What do you want to put on it? First of all, be aware that it's very easy"
+" to start something like that in a fit of enthusiasm, and then find that "
+"having written a few articles, it becomes harder and harder to maintain "
+"the momentum."
+msgstr ""
+
+#: ../online-presence.rst:79
+msgid ""
+"Interviewers are very used to looking up a candidate's website, and "
+"finding that it contains a rush of articles that were all written within "
+"six weeks of each other, three years ago. (The other thing they often see"
+" is that the site is very new, and that every article shows every sign of"
+" having been created solely to be a portfolio while job-hunting.)"
+msgstr ""
+
+#: ../online-presence.rst:81
+msgid ""
+"If you're going to create your own website, *start sooner rather than "
+"later*, and think very carefully how you will sustain the effort to keep "
+"it up."
+msgstr ""
+
+#: ../online-presence.rst:85
+msgid "Writing how-to guides and tutorials"
+msgstr ""
+
+#: ../online-presence.rst:89
+msgid ""
+"Well-written technical guides that describe something many people would "
+"like to be able to do are always popular."
+msgstr ""
+
+#: ../online-presence.rst:91
+msgid ""
+"Guides can be very simple (\"Create a network back-up system using a "
+"Raspberry Pi\"), but even simple things will find an audience, and if you"
+" are able to write something up more clearly than anyone else has, it "
+"will be appreciated. It's quite something to hit the front page of "
+"`HackerNews <https://news.ycombinator.com>`_ in that way."
+msgstr ""
+
+#: ../online-presence.rst:93
+msgid ""
+"If what you have written catches an interviewer's eye, expect to be asked"
+" about it - interviewers love seeing candidates' public work like that."
+msgstr ""
+
+#: ../online-presence.rst:95
+msgid ""
+"But, there is a difficulty: coming up with articles of that kind is a "
+"very difficult effort to sustain, and doing it with authority and quality"
+" makes it harder still.  There's a good way to turn it round though, by "
+"choosing *not* to write from a position of authority."
+msgstr ""
+
+#: ../online-presence.rst:99
+msgid "Your learning and discovery"
+msgstr ""
+
+#: ../online-presence.rst:101
+msgid ""
+"Instead, an excellent thing you can do (especially if you are in an early"
+" career stage) is use your website as *a public diary of your learning "
+"and exploration*."
+msgstr ""
+
+#: ../online-presence.rst:103
+msgid ""
+"It will be just as effective as writing guides for others, and you can "
+"even cover the same content, but now you are freer, to make it about your"
+" journey. You can go into your missteps and failures too. You'll feel "
+"less need to write something new that hasn't been written about before, "
+"because this time it's about your perspective and experience."
+msgstr ""
+
+#: ../online-presence.rst:105
+msgid ""
+"For an interviewer, it demonstrates how you develop your skills and work "
+"on projects, and displays a kind of openness."
+msgstr ""
+
+#: ../online-presence.rst:107
+msgid ""
+"You'll be able to write just the same article about the Raspberry Pi "
+"network back-up system, but it will be easier, *and that means you are "
+"more likely to do more writing of this kind*."
+msgstr ""
+
+#: ../online-presence.rst:111
+msgid "Open-source activity"
+msgstr ""
+
+#: ../online-presence.rst:113
+msgid ""
+"If you take part in software projects, communities or initiatives, then "
+"to a certain extent that automatically creates a presence for you (your "
+"trail of activity on platforms such as Github, or the way your name will "
+"show up on events' websites)."
+msgstr ""
+
+#: ../online-presence.rst:115
+msgid ""
+"This can be of immense value, and it's also easy to amplify - for example"
+" if you land a commit to a project, mention it on your website, or on "
+"social media."
+msgstr ""
+
+#: ../online-presence.rst:119
+msgid "LinkedIn"
+msgstr ""
+
+#: ../online-presence.rst:121
+msgid ""
+"Everyone seems to be on LinkedIn. You might as well. You will "
+"occasionally see things of interest, and if you have met or encountered "
+"someone in the field that you're interested in working in, it's "
+"worthwhile to try to establish the connection. It *can* be a good way to "
+"ask someone a direct question if you don't already have their email "
+"address."
+msgstr ""
+
+#: ../online-presence.rst:123
+msgid ""
+"But be realistic. You can't expect anything of someone just because "
+"you're connected on LinkedIn. You are very unlikely to be able to "
+"cultivate meaningful professional relationships on LinkedIn; that will "
+"generally happen elsewhere."
+msgstr ""
+
+#: ../online-presence.rst:125
+msgid ""
+"And be aware that there is a vast amount of rubbish on the platform too: "
+"appalling advice, horrible values and shallow \"aspiration\". There's a "
+"reason for the existence of the `LinkedIn Lunatics group on Reddit "
+"<https://www.reddit.com/r/LinkedInLunatics/>`_."
+msgstr ""
+
+#: ../online-presence.rst:127
+msgid ""
+"If you have a LinkedIn account, it's worth mentioning it on your CV and "
+"in job applications (many application forms ask, and many reviewers will "
+"have a look at your LinkedIn page). Make sure your LinkedIn page looks "
+"professional and matches your CV."
+msgstr ""
+
+#: ../online-presence.rst:131
+msgid "Social media"
+msgstr ""
+
+#: ../online-presence.rst:133
+msgid ""
+"Fewer people than ever now use Twitter, which once was a place for fairly"
+" casual conversation about software and the industry. It's unlikely that "
+"you will obtain any benefit from investing effort into maintaining a "
+"presence there, or on FaceBook. You'll find more software industry "
+"engagement on Mastodon and Bluesky, but it's fragmented."
+msgstr ""
+
+#: ../online-presence.rst:137
+msgid "Your usernames"
+msgstr ""
+
+#: ../online-presence.rst:139
+msgid ""
+"As with your :ref:`email address <your-cv-email>`, the username for your "
+"public online accounts needs to reflect who you want to be seen as. It's "
+"a small detail, but pay attention to it."
+msgstr ""
+

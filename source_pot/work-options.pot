@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../work-options.rst:3
+msgid "Different working arrangements"
+msgstr ""
+
+#: ../work-options.rst:6
+msgid "Every path you choose will have its benefits and disadvantages."
+msgstr ""
+
+#: ../work-options.rst:9
+#: ../work-options.rst:77
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../work-options.rst:11
+msgid "What working arrangements have you experienced, and which have you most enjoyed - and why?"
+msgstr ""
+
+#: ../work-options.rst:13
+#: ../work-options.rst:81
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../work-options.rst:15
+msgid "Maybe you feel you will have more value earning a higher salary to send money back home, or perhaps that being part of a local technology community matters more. Living in Europe might be a wonderful adventure for someone but a huge sacrifice for another. Perhaps you believe that the most important thing you can do is apply your software skills to African problems. Different things might matter to you more than others."
+msgstr ""
+
+#: ../work-options.rst:17
+msgid "You can take the table below with a pinch of salt. It's not intended to be a precise and definitive guide. It's generalised and you can safely add *probably* in front of everything it says. For example, some people who run their own businesses in Africa *will* be enormously successful - though for most people that will not be the case, and the economic reward will be modest."
+msgstr ""
+
+#: ../work-options.rst:24
+msgid "arrangement"
+msgstr ""
+
+#: ../work-options.rst:25
+msgid "salary"
+msgstr ""
+
+#: ../work-options.rst:26
+msgid "career-profile value"
+msgstr ""
+
+#: ../work-options.rst:27
+msgid "you live"
+msgstr ""
+
+#: ../work-options.rst:28
+msgid "your income"
+msgstr ""
+
+#: ../work-options.rst:29
+msgid "your skills will bring value to"
+msgstr ""
+
+#: ../work-options.rst:30
+msgid "as a senior, you will mentor"
+msgstr ""
+
+#: ../work-options.rst:31
+msgid "you will be part of"
+msgstr ""
+
+#: ../work-options.rst:32
+msgid "working in the west for an international company"
+msgstr ""
+
+#: ../work-options.rst:33
+msgid "highest"
+msgstr ""
+
+#: ../work-options.rst:34
+#: ../work-options.rst:41
+#: ../work-options.rst:42
+msgid "high"
+msgstr ""
+
+#: ../work-options.rst:35
+msgid "abroad"
+msgstr ""
+
+#: ../work-options.rst:36
+msgid "mostly stays in the west"
+msgstr ""
+
+#: ../work-options.rst:37
+#: ../work-options.rst:45
+msgid "the west"
+msgstr ""
+
+#: ../work-options.rst:38
+msgid "western juniors"
+msgstr ""
+
+#: ../work-options.rst:39
+msgid "foreign technology communities"
+msgstr ""
+
+#: ../work-options.rst:40
+msgid ":ref:`remote work for an international company <remote-work-options>`"
+msgstr ""
+
+#: ../work-options.rst:43
+#: ../work-options.rst:51
+#: ../work-options.rst:59
+msgid "in your own country"
+msgstr ""
+
+#: ../work-options.rst:44
+msgid "comes from abroad into Africa"
+msgstr ""
+
+#: ../work-options.rst:46
+msgid "western juniors at work; local juniors in your community"
+msgstr ""
+
+#: ../work-options.rst:47
+#: ../work-options.rst:55
+#: ../work-options.rst:63
+msgid "local technology communities"
+msgstr ""
+
+#: ../work-options.rst:48
+msgid "working for a local company"
+msgstr ""
+
+#: ../work-options.rst:49
+#: ../work-options.rst:50
+msgid "lower"
+msgstr ""
+
+#: ../work-options.rst:52
+#: ../work-options.rst:60
+msgid "comes from and stays in Africa"
+msgstr ""
+
+#: ../work-options.rst:53
+#: ../work-options.rst:61
+msgid "Africa"
+msgstr ""
+
+#: ../work-options.rst:54
+#: ../work-options.rst:62
+msgid "local juniors"
+msgstr ""
+
+#: ../work-options.rst:56
+msgid "running your own business"
+msgstr ""
+
+#: ../work-options.rst:57
+#: ../work-options.rst:58
+msgid "lowest"
+msgstr ""
+
+#: ../work-options.rst:67
+msgid "Making and unmaking choices"
+msgstr ""
+
+#: ../work-options.rst:69
+msgid "To an extent, the path you choose doesn't even matter that much."
+msgstr ""
+
+#: ../work-options.rst:71
+msgid "As in the rest of life, people suffer much less from making the wrong choice than they do from *not changing the situation they are in when it's not doing them good*. In other words, the choice you make might or might be the right one for you, but what will really make a difference to your long-term happiness and well-being is whether you find yourself stuck in it."
+msgstr ""
+
+#: ../work-options.rst:73
+msgid "For example, suppose that you take a job abroad with a software company, with life-changing income and prospects."
+msgstr ""
+
+#: ../work-options.rst:79
+msgid "Have you had the experience of going down a path that wasn't right for you? What did you do about it? How did it work out?"
+msgstr ""
+
+#: ../work-options.rst:83
+msgid "In such a situation, where you are also successfully sending money back home, *it can be very hard to admit or even notice that you are not happy*, and it can feel that changing your path (perhaps, going back home to much lower income and lesser future prospects) is something you can't even consider. As an option, it doesn't cross your mind."
+msgstr ""
+
+#: ../work-options.rst:85
+msgid "Now you are stuck - *not because of your actual situation, but because of the way you think about it* - and that is a very bad position to be in."
+msgstr ""
+
+#: ../work-options.rst:87
+msgid "Perhaps this table would have most useful value not for someone considering their path, but for someone who is on a path and needs a reminder about what matters to them."
+msgstr ""

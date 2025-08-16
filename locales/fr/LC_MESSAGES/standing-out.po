@@ -1,0 +1,299 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../standing-out.rst:5
+msgid "Fitting in, standing out"
+msgstr ""
+
+#: ../standing-out.rst:8
+msgid ""
+"Being successful in the search for work means fitting in and standing out"
+" - at the same time."
+msgstr ""
+
+#: ../standing-out.rst:9
+msgid ""
+"Fitting in is how you will get into a company's hiring process. Standing "
+"out is how you will advance in it."
+msgstr ""
+
+#: ../standing-out.rst:13
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../standing-out.rst:15
+msgid ""
+"What has been your experience? Have you ever felt that you were valued "
+"for the way you stood out? How? What has surprised you?"
+msgstr ""
+
+#: ../standing-out.rst:19
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../standing-out.rst:21
+msgid "To be considered for a role you must *conform*."
+msgstr ""
+
+#: ../standing-out.rst:23
+msgid ""
+"You must conform to the prospective employer's expectations, of skills, "
+"experience, qualifications. You must conform to the way hiring processes "
+"work. :ref:`Your CV <your-cv>` must conform to expectations of length, "
+"style, content. **You have to give them what they want.**"
+msgstr ""
+
+#: ../standing-out.rst:25
+msgid ""
+"This can be hard, especially if you're not already an industry insider. "
+"You might not even know or understand some of those expectations, or that"
+" you have somehow completely failed to meet them."
+msgstr ""
+
+#: ../standing-out.rst:27
+msgid ""
+"Some of them might even be unfair expectations, for example if an African"
+" woman does not fit a recruiter's unconscious idea of \"what a database "
+"engineer looks like\"."
+msgstr ""
+
+#: ../standing-out.rst:29
+msgid "And somehow, at the same time, you must *stand out*."
+msgstr ""
+
+#: ../standing-out.rst:31
+msgid ""
+"To be selected, you need to stand out from all the other candidates. You "
+"don't just need to *be* the best-suited to the role, you need to find "
+"ways to *show* that effectively. You have to catch the eye, and be "
+"remembered. **Give them something that perhaps they didn't even realise "
+"they could have.**"
+msgstr ""
+
+#: ../standing-out.rst:35
+msgid "Examples"
+msgstr ""
+
+#: ../standing-out.rst:38
+msgid "Python and cloud data analytics"
+msgstr ""
+
+#: ../standing-out.rst:40
+msgid ""
+"Let's say that you realise that the company needs someone with **solid "
+"Python experience** in a **cloud data analytics** environment. How can "
+"you show that you fit in, *and* stand out?"
+msgstr ""
+
+#: ../standing-out.rst:44 ../standing-out.rst:66
+msgid "Fit in"
+msgstr ""
+
+#: ../standing-out.rst:46
+msgid ""
+"I re-implemented all our data analytics pipelines in Apache Airflow, with"
+" Kubernetes and Helm. I gave them a consistent interface, and that made a"
+" significant difference to the speed and reliability of our teams' work "
+"with them."
+msgstr ""
+
+#: ../standing-out.rst:48
+msgid ""
+"You show that you know the tools. By talking about them in a "
+"sophisticated way, you demonstrate a depth of understanding. You connect "
+"the work to production concerns - in this case, how it makes a difference"
+" to other teams."
+msgstr ""
+
+#: ../standing-out.rst:52 ../standing-out.rst:74
+msgid "Stand out"
+msgstr ""
+
+#: ../standing-out.rst:54
+msgid ""
+"I started the Nairobi PyData group in 2018, and we have held a meet-up "
+"nearly every month since then."
+msgstr ""
+
+#: ../standing-out.rst:56
+msgid ""
+"You show that you don't just use Python data tools at work, you actually "
+"*care* about the topic; you demonstrate personal interest, motivation and"
+" engagement."
+msgstr ""
+
+#: ../standing-out.rst:60
+msgid "Documentation and Docker"
+msgstr ""
+
+#: ../standing-out.rst:62
+msgid ""
+"Suppose it's a job for a **documentation author** for a **deployment "
+"tool** that uses **Docker** and related technologies."
+msgstr ""
+
+#: ../standing-out.rst:68
+msgid ""
+"I have been the main technical writer for ExampleWeb's Docker-based "
+"hosting platform since 2020."
+msgstr ""
+
+#: ../standing-out.rst:70
+msgid ""
+"You show that your experience aligns with the technical aspects of the "
+"job, and also that it is several years' worth of experience, in which you"
+" were able to work independently."
+msgstr ""
+
+#: ../standing-out.rst:76
+#, python-format
+msgid ""
+"After I showed management how the developer documentation was failing to "
+"turn curious experimenters into paying customers, they accepted my "
+"proposal to overhaul it entirely - which improved conversion rates from "
+"less than 1% to nearly 7% in three months."
+msgstr ""
+
+#: ../standing-out.rst:78
+msgid ""
+"You show that you are not just a passive technical writer but one who "
+"sees things that need to be improved, and will take the initiative to "
+"make the improvements happen. You demonstrate persuasiveness, hint at "
+"persistence and highlight measurable success."
+msgstr ""
+
+#: ../standing-out.rst:82
+msgid "Why this is so effective"
+msgstr ""
+
+#: ../standing-out.rst:84
+msgid ""
+"The statements that show how you *fit in* help to answer people's "
+"questions even before they need to ask you."
+msgstr ""
+
+#: ../standing-out.rst:86
+msgid ""
+"They'll be thinking: *Does the candidate have the Docker experience we "
+"need?* And they will answer it for themselves: *Look at that, five years "
+"working with Docker!*"
+msgstr ""
+
+#: ../standing-out.rst:88
+msgid ""
+"The ones that show how you *stand out* prompt them to ask you certain "
+"questions - the questions *you* want them to ask."
+msgstr ""
+
+#: ../standing-out.rst:90
+msgid ""
+"Your story will make them wonder: *How did you persuade management? How "
+"did you measure the conversion rates?* And when they ask, you can truly "
+"say:  *I'm glad you asked me that!*"
+msgstr ""
+
+#: ../standing-out.rst:92
+msgid ""
+"If you can get to an interview, and you have effectively *already* "
+"answered the questions they need answered, and you have given them "
+"questions that you know are going to make you shine, you have put "
+"yourself in an excellent position."
+msgstr ""
+
+#: ../standing-out.rst:96
+msgid "How to use this pattern"
+msgstr ""
+
+#: ../standing-out.rst:98
+msgid ""
+"You can use this way of looking at what's being asked of you equally when"
+" you have time to stop and think - for example when you're revising your "
+"CV for a particular role, or submitting your initial application - or "
+"when you're on the spot in an interview."
+msgstr ""
+
+#: ../standing-out.rst:100
+msgid ""
+"It's harder to do it on the spot, but if you have already thought it "
+"through beforehand, and have some notes written down, you will find that "
+"in the moment, some good things to say will come to mind. So, begin by "
+"applying it to the role as soon as you start looking at it."
+msgstr ""
+
+#: ../standing-out.rst:104
+msgid ""
+"What a job description or even an interviewer asks for are not "
+"necessarily what the job needs. Learn to :ref:`read between the lines "
+"<between-the-lines>`, and think about what's really at stake."
+msgstr ""
+
+#: ../standing-out.rst:106
+msgid ""
+"Note each key thing that the job requires. These are the points where you"
+" need to fit in and stand out. Between five and ten should be enough (any"
+" more than that and you might risk losing sight of the picture)."
+msgstr ""
+
+#: ../standing-out.rst:110
+msgid "How you fit in"
+msgstr ""
+
+#: ../standing-out.rst:112
+msgid ""
+"Having written down your understanding of what the job, ask yourself: "
+"*How do I fit in?*, and *How can I show that I fit in?*"
+msgstr ""
+
+#: ../standing-out.rst:114
+msgid ""
+"Connect the dots: for key requirement that you identify, write down what "
+"you have that shows how you meet it."
+msgstr ""
+
+#: ../standing-out.rst:118
+msgid "How you stand out"
+msgstr ""
+
+#: ../standing-out.rst:120
+msgid ""
+"And now find the connected things that they weren't expecting but will "
+"please them, the things that you hope will elevate you above the other "
+"candidates. Be surprising and be specific."
+msgstr ""
+
+#: ../standing-out.rst:122
+msgid ""
+"Draw on what's special to you, and draw on your African experience. For "
+"example, in an interview about web performance, you could note that as an"
+" African you are immediately aware of the challenges of using the web on "
+"under-powered equipment in slow network conditions, and the approaches "
+"you use to ensure good performance for all users (and you might be "
+"surprised how surprising that is to some interviewers)."
+msgstr ""
+
+#: ../standing-out.rst:126
+msgid ""
+"When you do this, write all these things down - writing things properly "
+"is very important, even when you are going to be the only reader. See "
+":ref:`writing-things-down`)."
+msgstr ""
+

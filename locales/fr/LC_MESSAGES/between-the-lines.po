@@ -1,0 +1,309 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../between-the-lines.rst:5
+msgid "Reading between the lines"
+msgstr ""
+
+#: ../between-the-lines.rst:9
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../between-the-lines.rst:11
+msgid ""
+"Have you had an experience of successfully reading between the lines - or"
+" failing to?"
+msgstr ""
+
+#: ../between-the-lines.rst:13
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../between-the-lines.rst:16
+msgid ""
+"Practise looking more deeply, from what people say to what they really "
+"need."
+msgstr ""
+
+#: ../between-the-lines.rst:17
+msgid ""
+"You probably realise that throughout life, what people communicate "
+"shouldn't only be taken at face-value."
+msgstr ""
+
+#: ../between-the-lines.rst:19
+msgid ""
+"Learning to identify what really matters from what they say matters is a "
+"valuable skill (and therefore it requires practice)."
+msgstr ""
+
+#: ../between-the-lines.rst:21
+msgid ""
+"It applies when job-seeking too. If you are able to look beyond what "
+"people say to the deeper needs they are trying to express, you'll give "
+"yourself more opportunities for success."
+msgstr ""
+
+#: ../between-the-lines.rst:25
+msgid "Asks, wants and needs"
+msgstr ""
+
+#: ../between-the-lines.rst:27
+msgid ""
+"A colleague for example, or a job description, might ask for something. "
+"Take that seriously: listen carefully, and pay attention to what job "
+"descriptions say."
+msgstr ""
+
+#: ../between-the-lines.rst:29
+msgid ""
+"But be aware that **what they ask for is not necessarily what they want, "
+"and what they want is not necessarily what they need**. So use your "
+"judgement, imagination and insight too."
+msgstr ""
+
+#: ../between-the-lines.rst:31
+msgid ""
+"Ask yourself - or even ask *them*, if you have the opportunity - *why* "
+"they want it. And when they say they want something, ask why they *need* "
+"it."
+msgstr ""
+
+#: ../between-the-lines.rst:33
+msgid ""
+"You will often get interesting and revealing answers, that show you extra"
+" options and opportunities, and even open doors that seemed to be closed."
+msgstr ""
+
+#: ../between-the-lines.rst:37
+msgid "Example: your manager"
+msgstr ""
+
+#: ../between-the-lines.rst:39
+msgid ""
+"Let's say your manager says: \"I want a daily meeting with progress "
+"reports from *everyone* on the xxx project!\""
+msgstr ""
+
+#: ../between-the-lines.rst:43 ../between-the-lines.rst:75
+msgid "When they ask for something, consider what they really want."
+msgstr ""
+
+#: ../between-the-lines.rst:45
+msgid ""
+"What they're asking for is clear. Ask yourself: is that really want they "
+"*want*? It certainly sounds like your manager wants to be kept closely "
+"up-to-date with progress. They want to know what each person is doing. "
+"It's not so clear that the *meeting* is really what matters here (and "
+"quite likely your manager has quite enough meetings in their diary "
+"anyway)."
+msgstr ""
+
+#: ../between-the-lines.rst:49 ../between-the-lines.rst:83
+msgid "Then, think about what they actually *need*."
+msgstr ""
+
+#: ../between-the-lines.rst:51
+msgid ""
+"Why would your manager want to know what each person is doing? Why is "
+"being aware of progress at that level so important? Ask yourself: does it"
+" seem appropriate for a manager to have that level of oversight?"
+msgstr ""
+
+#: ../between-the-lines.rst:53
+msgid ""
+"If not, you might conclude that some anxiety is at work. Perhaps your "
+"manager feels that there is a lack of accountability for progress in the "
+"team, or that planning has been slack, and so the only way to judge "
+"progress is by watching it very closely."
+msgstr ""
+
+#: ../between-the-lines.rst:55
+msgid "You can ask about this:"
+msgstr ""
+
+#: ../between-the-lines.rst:57
+msgid ""
+"Would it help if I were to provide a daily written summary of activities "
+"and outcomes, and if there are any blockers, to make sure to let you know"
+" straight away? Perhaps then you wouldn't need to find a slot for a daily"
+" meeting just for this project."
+msgstr ""
+
+#: ../between-the-lines.rst:59
+msgid ""
+"That's an appropriate way to question a manager's decision. It suggests "
+"an alternative and offers to take responsibility for making it work. Or:"
+msgstr ""
+
+#: ../between-the-lines.rst:61
+msgid ""
+"I think it would also help if we had a more concrete plan, with a "
+"timeline for interim delivery of the key dependencies. I did one for "
+"project yyy. I made a draft for this one too - would you like to see it?"
+msgstr ""
+
+#: ../between-the-lines.rst:63
+msgid ""
+"Again, this demonstrates initiative and a positive attitude towards a "
+"situation."
+msgstr ""
+
+#: ../between-the-lines.rst:65
+msgid ""
+"In the end, it might be that in fact your manager really *does* want to "
+"see everyone daily (perhaps they want to assess the team's performance "
+"and professional communication skills), but the important thing is for "
+"you to get into the habit of **thinking beyond the immediate ask, to "
+"thinking about what really matters and why**."
+msgstr ""
+
+#: ../between-the-lines.rst:69
+msgid "Example: a job description"
+msgstr ""
+
+#: ../between-the-lines.rst:71
+msgid ""
+"Suppose that a job description demands \"three years' Python web agency "
+"experience\"."
+msgstr ""
+
+#: ../between-the-lines.rst:77
+msgid ""
+"They *asked for* \"three years' Python web agency experience\". Perhaps "
+"you have that, or not. Either way, think about what it says about what "
+"they *want*."
+msgstr ""
+
+#: ../between-the-lines.rst:79
+msgid ""
+"They want evidence of Python web experience, almost certainly. And most "
+"likely they *want* someone who has proven ability to deal with customer "
+"requests, deadlines and so on - because those are the kind of things "
+"someone who works for an agency has to be able to do. In that case, you "
+"might be able to do those things, even if you can't show precisely the "
+"agency experience what they asked for."
+msgstr ""
+
+#: ../between-the-lines.rst:85
+msgid ""
+"Very often, prospective employers want proof and evidence. They want "
+"signs that you are going to have the right skills, abilities and "
+"attitudes in the job. But, perhaps there are other things that could show"
+" you have what they *need*."
+msgstr ""
+
+#: ../between-the-lines.rst:87
+msgid ""
+"*Why* do they want the things they want? What needs do you see revealed? "
+"What else do you have that could be evidence you will be able to meet the"
+" needs?"
+msgstr ""
+
+#: ../between-the-lines.rst:89
+msgid ""
+"In this particular case, perhaps you conclude that they want evidence of "
+"Python web experience, and of ability to work with customers' needs."
+msgstr ""
+
+#: ../between-the-lines.rst:91
+msgid ""
+"Reading between the lines, listening carefully how they talk about it, "
+"you might come to the conclusion that what they really *need* is someone "
+"who is good at coming up with pragmatic prototypes, quickly."
+msgstr ""
+
+#: ../between-the-lines.rst:93
+msgid ""
+"Get used to asking questions inspired by what you think you are hearing. "
+"Good questions unlock hidden treasure. If you ask a question based on an "
+"insightful conclusion, people will often reward it with very concrete "
+"information: \"That's right! Quick prototyping is exactly the kind of "
+"thing we'll need.\" Then they reveal that they'll need more people on a "
+"big Django project that is expected to go through several phases of "
+"development, with a customer whose own plans are subject to change."
+msgstr ""
+
+#: ../between-the-lines.rst:95
+msgid "And that gives you something else you can talk about and show."
+msgstr ""
+
+#: ../between-the-lines.rst:99
+msgid "Make it clear to yourself"
+msgstr ""
+
+#: ../between-the-lines.rst:101
+msgid "Spending a little time to write this out can really help crystallise it."
+msgstr ""
+
+#: ../between-the-lines.rst:108
+msgid "what they ask for"
+msgstr ""
+
+#: ../between-the-lines.rst:109
+msgid "what they want"
+msgstr ""
+
+#: ../between-the-lines.rst:110
+msgid "what they actually need"
+msgstr ""
+
+#: ../between-the-lines.rst:111
+msgid "\"a daily meeting with progress reports from *everyone* on the project!\""
+msgstr ""
+
+#: ../between-the-lines.rst:112
+msgid ""
+"to be reassured that each person is actually doing what they are supposed"
+" to be doing"
+msgstr ""
+
+#: ../between-the-lines.rst:113 ../between-the-lines.rst:119
+msgid "*after asking and listening*:"
+msgstr ""
+
+#: ../between-the-lines.rst:115
+msgid "to know that the project is on track for completion in time"
+msgstr ""
+
+#: ../between-the-lines.rst:116
+msgid "\"three years' Python web agency experience\""
+msgstr ""
+
+#: ../between-the-lines.rst:117
+msgid "evidence of Python web experience"
+msgstr ""
+
+#: ../between-the-lines.rst:118
+msgid ""
+"someone who has proven ability to deal with customer requests, deadlines,"
+" etc"
+msgstr ""
+
+#: ../between-the-lines.rst:121
+msgid "someone who is good at coming up with pragmatic prototypes, quickly"
+msgstr ""
+
+#: ../between-the-lines.rst:122
+msgid "more people for a big Django project!"
+msgstr ""
+

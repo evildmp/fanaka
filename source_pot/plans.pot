@@ -1,0 +1,353 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../plans.rst:3
+msgid "Professional development plans"
+msgstr ""
+
+#: ../plans.rst:6
+msgid "A plan changes what happens."
+msgstr ""
+
+#: ../plans.rst:7
+msgid "At different times you may be asked to make a professional development plan, or choose to make one yourself. Many people who have done this previously at work will face the task with reluctance - because the plan has seemed unreal and arbitrary, and because they haven't seen meaningful results from it."
+msgstr ""
+
+#: ../plans.rst:9
+msgid "This is really a shame, because a well-made plan is a wonderfully effective tool for success."
+msgstr ""
+
+#: ../plans.rst:13
+msgid "Dimensions of a plan"
+msgstr ""
+
+#: ../plans.rst:15
+msgid "A good plan contains an aspiration, objectives and commitments. The **aspiration** is what you are reaching for; the **objectives** are what you will achieve along the way; the **commitments** are to the actions you will actually take."
+msgstr ""
+
+#: ../plans.rst:17
+msgid "They answer three different questions:"
+msgstr ""
+
+#: ../plans.rst:19
+msgid "What do you *want*?"
+msgstr ""
+
+#: ../plans.rst:20
+msgid "What shall you *achieve*?"
+msgstr ""
+
+#: ../plans.rst:21
+msgid "What will you *do*?"
+msgstr ""
+
+#: ../plans.rst:23
+msgid "They are separate, independent *dimensions* - they often get mixed up and blurred, but they are each a different *kind* of thing. Each one is necessary in a plan."
+msgstr ""
+
+#: ../plans.rst:29
+msgid "aspiration"
+msgstr ""
+
+#: ../plans.rst:30
+msgid "objectives"
+msgstr ""
+
+#: ../plans.rst:31
+msgid "commitments"
+msgstr ""
+
+#: ../plans.rst:32
+msgid "where you want to go"
+msgstr ""
+
+#: ../plans.rst:33
+msgid "what you will make happen"
+msgstr ""
+
+#: ../plans.rst:34
+msgid "what you commit to doing"
+msgstr ""
+
+#: ../plans.rst:35
+msgid "*meaning, direction, value, aim*"
+msgstr ""
+
+#: ../plans.rst:36
+msgid "*progress, measurement, outcomes*"
+msgstr ""
+
+#: ../plans.rst:37
+msgid "*effort, accountability, action*"
+msgstr ""
+
+#: ../plans.rst:42
+#: ../plans.rst:145
+msgid "Aspiration"
+msgstr ""
+
+#: ../plans.rst:44
+msgid "The aspiration or ambition is *what you are aiming towards*. It's the answer to the question: \"What do you *want*?\""
+msgstr ""
+
+#: ../plans.rst:46
+msgid "You are *here*, and you desire to be *there*; your aspiration lies in a certain direction. It is the value that gives your whole plan meaning; it's something you believe in because it's worth reaching for."
+msgstr ""
+
+#: ../plans.rst:48
+msgid "*Ambitions don't need to be particularly realistic to have value.* They should have at least a little wildness in them, because a safe and comfortable ambition isn't going to inspire you."
+msgstr ""
+
+#: ../plans.rst:50
+msgid "A plan without aspiration is without meaning, value or direction - it's empty."
+msgstr ""
+
+#: ../plans.rst:54
+#: ../plans.rst:84
+#: ../plans.rst:111
+msgid "Examples"
+msgstr ""
+
+#: ../plans.rst:56
+msgid "I want to start and develop a successful software business."
+msgstr ""
+
+#: ../plans.rst:57
+msgid "I want to achieve the highest results in my studies."
+msgstr ""
+
+#: ../plans.rst:58
+msgid "I want to support my family through my work."
+msgstr ""
+
+#: ../plans.rst:62
+msgid "Not succeeding in your aspirations"
+msgstr ""
+
+#: ../plans.rst:64
+msgid "We don't always reach what we aim for - especially when we aim for ambitious things (it would be easy to achieve all your ambitions by aiming only for unambitious things). If the direction is a good one, you'll find valuable things along the way, even if you don't reach the destination."
+msgstr ""
+
+#: ../plans.rst:66
+msgid "In a way, it doesn't matter too much. If you strive towards an ambitious goal, you're likely to get *somewhere* worthwhile, even if it were not precisely what you had expected or hoped for."
+msgstr ""
+
+#: ../plans.rst:70
+#: ../plans.rst:151
+msgid "Objectives"
+msgstr ""
+
+#: ../plans.rst:72
+msgid "The objectives, naturally, are *objective measures*. They are the answer to the question: \"What shall you *achieve*?\""
+msgstr ""
+
+#: ../plans.rst:74
+msgid "Objectives are the milestones you reach on the journey towards your ambition, the things you make happen and the outcomes you bring about through your efforts. You - and others - will be able to see that you are making progress as you achieve the outcomes you set out."
+msgstr ""
+
+#: ../plans.rst:76
+msgid "Objectives need to be realistic, even if they are ambitious. It makes no sense to set yourself an objective you can't meet."
+msgstr ""
+
+#: ../plans.rst:78
+msgid "A meaningful objective usually includes a *time component* whether implicit or explicit: how long it will take to achieve it."
+msgstr ""
+
+#: ../plans.rst:80
+msgid "A plan without measurable objectives is a fantasy, detached from reality or rigour."
+msgstr ""
+
+#: ../plans.rst:86
+msgid "By the end of the year, I aim to be invoicing at least USD 1000 per month."
+msgstr ""
+
+#: ../plans.rst:87
+msgid "I aim to submit two pull requests fixing bugs in <open source project> each month."
+msgstr ""
+
+#: ../plans.rst:88
+msgid "I aim to complete all my coursework one week before the final deadline."
+msgstr ""
+
+#: ../plans.rst:89
+msgid "I aim to achieve the <such-and-such> certification before June."
+msgstr ""
+
+#: ../plans.rst:93
+msgid "Not attaining your objectives"
+msgstr ""
+
+#: ../plans.rst:95
+msgid "You should attain *most* of your objectives - they need to be fairly reasonable. If you can easily achieve them all, that's a bit suspicious - they were probably a bit unambitious. If you never achieve any, either they were completely unrealistic, or perhaps something else is going wrong."
+msgstr ""
+
+#: ../plans.rst:99
+#: ../plans.rst:156
+msgid "Commitments"
+msgstr ""
+
+#: ../plans.rst:101
+msgid "Commitments in a plan are *the things you promise to do*. They are the answer to the question: \"What will you *do*?\""
+msgstr ""
+
+#: ../plans.rst:103
+msgid "In a plan, you commit to particular actions. Every action is an effort towards your ambition, that helps bring about an objective."
+msgstr ""
+
+#: ../plans.rst:105
+msgid "You can only commit to something you can achieve through an act of will, something you can choose to do. You can't *choose* to do well in an examination, but you can choose to spend each evening studying instead of going out with your friends."
+msgstr ""
+
+#: ../plans.rst:107
+msgid "Real commitments tend to include time commitments - *when* you are going to do what you promised."
+msgstr ""
+
+#: ../plans.rst:113
+msgid "I will set aside 1 hour a day for four weeks to study for the exam (until 31st May)."
+msgstr ""
+
+#: ../plans.rst:114
+msgid "I will join the undergraduate Python study group."
+msgstr ""
+
+#: ../plans.rst:115
+msgid "1st-2nd June: I will attend the weekend seminar."
+msgstr ""
+
+#: ../plans.rst:116
+msgid "I will attend the local developers' meetup (Wednesday evenings)."
+msgstr ""
+
+#: ../plans.rst:117
+msgid "I will apply to join the open-source code volunteers programme."
+msgstr ""
+
+#: ../plans.rst:118
+msgid "I will work through all exercises in the <such-and-such> book."
+msgstr ""
+
+#: ../plans.rst:122
+msgid "Not keeping your commitments"
+msgstr ""
+
+#: ../plans.rst:124
+msgid "Not completing the activities you said you would is a failure to respect your commitments. It is literally failing to do your work. (Occasionally, you can be forgiven - for example if you realise that in good faith, you promised more than you could give - but that should be a rare occurrence.)"
+msgstr ""
+
+#: ../plans.rst:130
+msgid "Writing out your plan"
+msgstr ""
+
+#: ../plans.rst:132
+msgid "A plan will not be successful unless it is written down. That puts it outside you - if it stays inside your head, you can tell yourself anything about it, and you will successfully fool yourself."
+msgstr ""
+
+#: ../plans.rst:136
+msgid "Templates and resources"
+msgstr ""
+
+#: ../plans.rst:138
+msgid "`Professional development plan template <https://docs.google.com/document/d/11hC8Sx4qUhNY1zPxlWaEE80l-4dGMA8cmnDPy4N41Z4/edit?usp=sharing>`_"
+msgstr ""
+
+#: ../plans.rst:143
+msgid "Date"
+msgstr ""
+
+#: ../plans.rst:146
+msgid "*Describe where you are and where you want to go. You can be bold and ambitious, but be honest and true about what you want.*"
+msgstr ""
+
+#: ../plans.rst:147
+msgid "Where I am now"
+msgstr ""
+
+#: ../plans.rst:149
+msgid "Where I want to be"
+msgstr ""
+
+#: ../plans.rst:152
+msgid "*Describe the specific outcomes you aim to bring about. Include a time-frame where possible. Be realistic, even if you are ambitious. The outcomes must be objectively measurable.*"
+msgstr ""
+
+#: ../plans.rst:153
+msgid "I aim to"
+msgstr ""
+
+#: ../plans.rst:154
+#: ../plans.rst:155
+#: ../plans.rst:159
+#: ../plans.rst:160
+msgid "..."
+msgstr ""
+
+#: ../plans.rst:157
+msgid "*Say what you will do, and when you will do it.*"
+msgstr ""
+
+#: ../plans.rst:158
+msgid "I will"
+msgstr ""
+
+#: ../plans.rst:164
+msgid "The time element"
+msgstr ""
+
+#: ../plans.rst:166
+msgid "*Time* is crucial in a plan. Your plan needs to be dated, and some of its components need to have time attached to them."
+msgstr ""
+
+#: ../plans.rst:170
+msgid "Review, assessment, modification"
+msgstr ""
+
+#: ../plans.rst:172
+msgid "Your plan also needs to be reviewed, not just at the conclusion of a period, but regularly."
+msgstr ""
+
+#: ../plans.rst:174
+msgid "There is real value in noticing what has worked and what hasn't. If you aimed to achieve something within a certain period and didn't, or committed to do something and failed to, the plan will show that to you, but you need to dig in to *why*, and you do something differently based on what you have understood. *Be tough on yourself.* A good plan can be as uncomfortable as having a mentor who challenges you and holds you to account, and you need that."
+msgstr ""
+
+#: ../plans.rst:178
+msgid "It's absolutely fine to tinker with a plan once it's in motion."
+msgstr ""
+
+#: ../plans.rst:180
+msgid "As you make progress, new objectives and commitments to particular actions will suggest themselves. There will be things that you cannot even properly see, never mind usefully include in a plan, until you have come around a particular bend in your journey."
+msgstr ""
+
+#: ../plans.rst:184
+msgid "Why this is the best way"
+msgstr ""
+
+#: ../plans.rst:186
+msgid "There are lots of different ways of creating professional development plans, but this is the best one."
+msgstr ""
+
+#: ../plans.rst:188
+msgid "For example you have no doubt encountered the idea of `SMART planning <https://en.wikipedia.org/wiki/SMART_criteria>`_. In fact, all the key elements of the original *SMART* criteria are included in this method. The difference is that here, the elements are not merely \"a list of important things to include\" - they are identified as **distinct, independent dimensions**. There is a meaning to the structure that is missing in *SMART*."
+msgstr ""
+
+#: ../plans.rst:190
+msgid "*SMART* is a catchy acronym, but it's merely a list. Worse, no-one can quite agree on what the items in the list are, except that somehow they have to spell out *SMART*. Because it's an arbitrary list, people feel the urge to add additional ones, so we end up with \"improved\" schemes, for *SMARTER*, *SMARTS*, *SMARRT* and various other increasingly unmemorable formats. That's not to mention all the competing notions, like *CLEAR*, *ABC*, etc."
+msgstr ""
+
+#: ../plans.rst:192
+msgid "This scheme is not arbitrary. Also, because it clearly describes the necessary dimensions of a plan as independent of each other, it makes it possible to see for example which particular elements time applies to, and how (whereas *SMART* simply implies that a plan must be time-related, which is both vague and misleading)."
+msgstr ""

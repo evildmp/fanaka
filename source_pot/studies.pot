@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../studies.rst:5
+msgid "Your studies"
+msgstr ""
+
+#: ../studies.rst:9
+msgid "Early choices that make a difference"
+msgstr ""
+
+#: ../studies.rst:13
+msgid "Skills or studies?"
+msgstr ""
+
+#: ../studies.rst:15
+msgid "You could spend a few years studying for a degree, or you could spend the same time focusing on developing your skills in real-world context, *and* earning some money while doing it."
+msgstr ""
+
+#: ../studies.rst:17
+msgid "Which of the two options will set you up best for a future job? Will an employer value one more than the other?"
+msgstr ""
+
+#: ../studies.rst:21
+msgid "Personal experience"
+msgstr ""
+
+#: ../studies.rst:23
+msgid "Sharon Koech (Kenya) works at Canonical as a Technical Author; :ref:`she got into the industry via a degree in Economics and Statistics <sharon-studies>`."
+msgstr ""
+
+#: ../studies.rst:25
+msgid "Sharon Koech"
+msgstr ""
+
+#: ../studies.rst:29
+msgid "Needless to say, there is no simple answer to the questions above, but there is a simple principle: *choose what you think you will be able to do best*."
+msgstr ""
+
+#: ../studies.rst:31
+msgid "For example, if it will be a great financial hardship to attend university and study for a degree for a few years, you will struggle to do really well - so don't go down that path. On the other hand if you think that you will succeed very well in your studies, working hard consistently and achieving good results, but would likely only achieve moderate success if you went straight into work - then dedicate yourself to your studies."
+msgstr ""
+
+#: ../studies.rst:33
+msgid "It is true that for many jobs, a degree is required. That won't make several years of unenjoyable, unsatisfying studies followed a mediocre degree result worth pursuing, and they won't make you are a good candidate."
+msgstr ""
+
+#: ../studies.rst:35
+msgid "Whatever you choose, it must be something you can dedicate yourself to, and you must actually dedicate yourself to it. **Achieving the best possible success in what you choose is much more significant than what you choose.**"
+msgstr ""
+
+#: ../studies.rst:39
+msgid "What to study?"
+msgstr ""
+
+#: ../studies.rst:41
+msgid "Sometimes people see a degree in Computer Science as the key to a career in software."
+msgstr ""
+
+#: ../studies.rst:45
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../studies.rst:47
+msgid "What was *your* experience of obtaining a degree and then a job? What did you study?"
+msgstr ""
+
+#: ../studies.rst:48
+msgid "Was the degree essential, helpful, not necessary?"
+msgstr ""
+
+#: ../studies.rst:49
+msgid "What did it prepare you well for, and what less so?"
+msgstr ""
+
+#: ../studies.rst:50
+msgid "What would you do differently? What would you advise your younger self?"
+msgstr ""
+
+#: ../studies.rst:52
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../studies.rst:54
+msgid "The reality is that there are many, many ways to enter the software industry. A Computer Science degree is indeed an obvious choice. But, it will only ever be one factor in someone's success, whether when applying for a job or already in it. And, it is never simply going to be a passport to a career."
+msgstr ""
+
+#: ../studies.rst:56
+msgid "Other factors that make a difference include:"
+msgstr ""
+
+#: ../studies.rst:60
+msgid "How well you do in your studies"
+msgstr ""
+
+#: ../studies.rst:62
+msgid "Someone who can demonstrate academic excellence (especially at an early career stage) is going to be a stronger candidate, whatever they studied. It's a way of standing out - grades and honours make a difference."
+msgstr ""
+
+#: ../studies.rst:64
+msgid "For an employer, a candidate's strong academic performance is an indicator of intelligence and ability work to a high standard in a sustained way. Often, especially for someone very early in their career, it's one of the few reasonably objective indicators available."
+msgstr ""
+
+#: ../studies.rst:68
+msgid "What you choose to do with software"
+msgstr ""
+
+#: ../studies.rst:70
+msgid "The popularity of Computer Science as a degree means that there an awful lot of rather lacklustre CS graduates in the world - people who chose it because it seemed like the safe, obvious option. They completed the degree, without visible passion or even enthusiasm."
+msgstr ""
+
+#: ../studies.rst:72
+msgid "That's not attractive to a potential employer. The CS graduate who merely went through the motions is not hard to identify; their grades are not impressive, they produced unambitious projects, they kept a narrow focus, only on what their studies required them to tackle."
+msgstr ""
+
+#: ../studies.rst:74
+msgid "On the other hand, someone who threw themselves into their studies, and especially someone who eagerly took opportunities to use or create software as part of their studies (whatever the degree subject) is much more exciting. Software is everywhere now, and there is no shortage of opportunity for someone to demonstrate software skills in subjects all the way from biology to marketing."
+msgstr ""
+
+#: ../studies.rst:76
+msgid "Don't be afraid to go beyond your curriculum. University programs often lag behind industry practices, with courses rarely covering many practical skills depending on your path; whether that's cloud infrastructure, web frameworks, UI/UX design, or app development. The computing world evolves rapidly, so identify what's relevant to your interests and complement your formal education. Even basic familiarity will set you apart from peers who rely solely on coursework."
+msgstr ""
+
+#: ../studies.rst:80
+msgid "Taking opportunities"
+msgstr ""
+
+#: ../studies.rst:82
+msgid "As well as your degree itself, university will offer you many opportunities, and some of them can be of as much value as your degree itself."
+msgstr ""
+
+#: ../studies.rst:86
+msgid "Extra-curricular activities"
+msgstr ""
+
+#: ../studies.rst:88
+msgid "At university, there are clubs and societies related to all kinds of interests and concerns. Many of these are related to software and computing. Your degree might not be in Computer Science, but that doesn't stop you from having an active participation of great value in software. Apart from anything else, that's where you will find the most enthusiastic and adventurous collaborators, whose skills and ambitions you can also draw upon."
+msgstr ""
+
+#: ../studies.rst:90
+msgid "These clubs also provide a low-stakes environment to develop soft skills. You can practice giving presentations about projects or technologies you're passionate about, receive feedback, and gain confidence that will prove invaluable when collaborating on software teams. The supportive atmosphere makes it easier to take risks and grow skills that technical courses alone don't always nurture - all while making meaningful connections."
+msgstr ""
+
+#: ../studies.rst:92
+msgid "Remember, employers often value well-rounded students who demonstrate initiative beyond coursework alone."
+msgstr ""
+
+#: ../studies.rst:96
+msgid "Open-source software engagement"
+msgstr ""
+
+#: ../studies.rst:98
+msgid "This deserves a section of its own. Engagement in open-source software is one of the classic gateways into the industry."
+msgstr ""
+
+#: ../studies.rst:100
+msgid "There are several reasons why it's especially valuable to seek out open-source software while you are university. There are many barriers to open-source software, and this is a time when you are most likely to encounter others for whom it is a passion, who have knowledge to share, and the time to share it, helping you over those barriers. It's much easier to get deep into the exploration and experimentation, and the troubleshooting that comes with them, when you are surrounded by others also embarked on the same journey."
+msgstr ""
+
+#: ../studies.rst:102
+msgid "For your studies too, open-source software has much to offer. It's one thing to deliver a competent project using the standard, recommended tools; it's quite another to use and adapt an open-source package as part of a project. While at university it's often hard to imagine making an impact on other people - but if you can get over the initial barriers to engagement, open-source opens an opportunity for real contribution and recognition, and that is something that will really stand out in a candidate's profile - whatever their degree subject."
+msgstr ""
+
+#: ../studies.rst:106
+msgid "In practice **any degree that allows you to demonstrate technical competence will have value when applying for a job**. Whatever the degree though, that's all it does - it *allows* you demonstrate what an employer needs - you need to find ways to demonstrate that competence and engagement."
+msgstr ""
+
+#: ../studies.rst:110
+msgid "The wrong degree"
+msgstr ""
+
+#: ../studies.rst:112
+msgid "Perhaps your studies were a long time ago, and weren't relevant or useful to the job you want to do now."
+msgstr ""
+
+#: ../studies.rst:114
+msgid "In that case, you will have to draw on other achievements and successes in software. Sometimes, having attained them despite not having done the degree can help you stand out. You still need to have attained the success though - and it needs to be success as substantial as a degree."
+msgstr ""
+
+#: ../studies.rst:116
+msgid "If you don't have that success already, you're going to have to work for it - there are no short-cuts."
+msgstr ""

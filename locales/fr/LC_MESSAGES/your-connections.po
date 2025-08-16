@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../your-connections.rst:5
+msgid "Your connections"
+msgstr ""
+
+#: ../your-connections.rst:8
+msgid "Knowing the right people won't get you a job, but it can help you."
+msgstr ""
+
+#: ../your-connections.rst:9
+msgid ""
+"Does *who* you know matter as much as *what* you know? The answer is yes,"
+" who you know can make a huge difference - but it might not be in the way"
+" you think."
+msgstr ""
+
+#: ../your-connections.rst:11
+msgid ""
+"Be clear that except in the most unusual and unlikely of circumstances, "
+"**you are not going to land a job simply by knowing the right person**. "
+"Nobody is going to \"get you a job\". The world just doesn't work like "
+"that."
+msgstr ""
+
+#: ../your-connections.rst:13
+msgid ""
+"What makes a difference is knowing people who know things, that they can "
+"share with you: insights, knowledge, advice, perspectives experiences - "
+"the things that this website tries to provide."
+msgstr ""
+
+#: ../your-connections.rst:17
+msgid "Networks of knowledge"
+msgstr ""
+
+#: ../your-connections.rst:19
+msgid ""
+"As an African, you are most likely on the outside of the software "
+"industry, looking in (and Africans who do make it into the industry, even"
+" with great success, often say they feel that are still in some way "
+"outsiders, looking in)."
+msgstr ""
+
+#: ../your-connections.rst:21
+msgid ""
+"If you had been born say in San Francisco, perhaps you would have grown "
+"up sitting at dinner tables with uncles and cousins talking about the "
+"goings-on of Silicon Valley. It would be a familiar world, on your "
+"doorstep. If you had studied at a European technical university, you "
+"would have direct contact with people and conversations in the industry. "
+"Living anywhere in the west, you would likely be within reach of plenty "
+"of people familiar with jobs and job markets and the way these things "
+"work."
+msgstr ""
+
+#: ../your-connections.rst:23
+msgid ""
+"People in those situations benefit from having *networks of knowledge* "
+"around them. There will always be someone who knows someone who has an "
+"answer, or can give advice. No-one is going to get a job *just because* "
+"they know someone, but there is real practical knowledge in those "
+"networks of people - people who can say things like:"
+msgstr ""
+
+#: ../your-connections.rst:25
+msgid ""
+"*You should apply to <xxx> - they have just advertised a job that fits "
+"your profile perfectly.*"
+msgstr ""
+
+#: ../your-connections.rst:26
+msgid ""
+"*At <yyy> they really care about your academic record - take it seriously"
+" when you're asked about it.*"
+msgstr ""
+
+#: ../your-connections.rst:27
+msgid "*The problem with your CV is ...*"
+msgstr ""
+
+#: ../your-connections.rst:28
+msgid ""
+"*You really ought to be considering developer relations or community "
+"management roles.*"
+msgstr ""
+
+#: ../your-connections.rst:29
+msgid "*My goodness, whatever you do don't say that in your interview!*"
+msgstr ""
+
+#: ../your-connections.rst:30
+msgid ""
+"*You're planning to say that your salary expectations are USD <nnn>?! You"
+" must be joking! First, don't offer any information until you really need"
+" to, and second, you can easily add another 50% to that figure.*"
+msgstr ""
+
+#: ../your-connections.rst:32
+msgid "And so on."
+msgstr ""
+
+#: ../your-connections.rst:34
+msgid ""
+"If you're not surrounded by people able to say such things to you with "
+"authority borne of experience, you're missing out on the gold dust that "
+"some other people take so much for granted that they don't even know it's"
+" gold dust."
+msgstr ""
+
+#: ../your-connections.rst:38
+msgid "Building your networks"
+msgstr ""
+
+#: ../your-connections.rst:40
+msgid ""
+"You're going to have to build your own networks, and find ways to get "
+"your own gold dust."
+msgstr ""
+
+#: ../your-connections.rst:44
+msgid ""
+"\"Collecting people\" - as some seem to do on platforms such as LinkedIn "
+"- is not building a network. A network must be formed of stronger "
+"connections than that."
+msgstr ""
+
+#: ../your-connections.rst:46
+msgid ""
+"In the absence of connections that simply come your way \"naturally\", "
+"through your everyday social and work environment, you'll need to "
+"cultivate them in other ways. *Cultivate* is the right word - they must "
+"be nurtured and tended, consciously."
+msgstr ""
+
+#: ../your-connections.rst:48
+msgid ""
+"That doesn't mean they can be *manufactured*. It's unsatisfying and "
+"ineffective to approach them in a transactional way. If you approach any "
+"relationship mainly from the perspective of your own advantage, it's not "
+"going to create the kind of bond that you need."
+msgstr ""
+
+#: ../your-connections.rst:52
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../your-connections.rst:54
+msgid "Has knowing someone helped you? How?"
+msgstr ""
+
+#: ../your-connections.rst:56
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../your-connections.rst:58
+msgid ""
+"Also, the value you get *out* of that kind of *network* is directly "
+"related to the effort and value you put in. For example, it's cheap and "
+"easy to form connections on social media, but they will be as cheap and "
+"shallow as your own engagement in them."
+msgstr ""
+
+#: ../your-connections.rst:62
+msgid "Shared endeavour"
+msgstr ""
+
+#: ../your-connections.rst:64
+msgid ""
+"Real connections will come most effectively from **shared endeavours** - "
+"work that you do, things that you strive towards, efforts that you make, "
+"together with others. An opportunity to work alongside others is a an "
+"opportunity to develop the connections you need."
+msgstr ""
+
+#: ../your-connections.rst:66
+msgid ""
+"In this at least, the playing field is levelled a bit more fairly. When "
+"it's *possible* to do that work with others online, it matters less that "
+"you're in a completely different part of the world. And if online is "
+"where it takes place for *everyone*, the geographical advantage that "
+"others might have enjoyed is less."
+msgstr ""
+
+#: ../your-connections.rst:70
+msgid "Do something you care about"
+msgstr ""
+
+#: ../your-connections.rst:72
+msgid ""
+"It starts with something you genuinely care about. Whatever it is, you "
+"can be pretty sure that it's something other people are interested in "
+"too. It could be updating Open Street Map data for where you live, or "
+"improving Wikipedia pages on topics you have expertise in, or programming"
+" in Python, or something completely different."
+msgstr ""
+
+#: ../your-connections.rst:74
+msgid ""
+"You will find that others also share that interest, and wherever there is"
+" a shared human effort, personal relationships and social networks build "
+"up around it. It can take a while for you to find them and even longer to"
+" feel that you fit in, but those doors are there for participants. Your "
+"caring and your participation in the effort are what will mean you "
+"belong."
+msgstr ""
+
+#: ../your-connections.rst:76
+msgid "The connections will follow naturally."
+msgstr ""
+
+#: ../your-connections.rst:80
+msgid "Adjacent conversations"
+msgstr ""
+
+#: ../your-connections.rst:82
+msgid ""
+"The subject-matter of the effort you participate in might not itself "
+"touch the topics, related to work, careers and advancement, that you need"
+" to help you. But there will *always* be adjacent conversations to any "
+"effort people take part in together, and as you listen to and take part "
+"in those, you will start to be exposed to the same networks of knowledge "
+"and advice that can be so valuable."
+msgstr ""
+
