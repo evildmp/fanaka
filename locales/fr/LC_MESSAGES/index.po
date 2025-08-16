@@ -81,7 +81,7 @@ msgstr ""
 
 #: ../index.rst:28
 msgid "Contribute your perspective"
-msgstr ""
+msgstr "Apportez votre point de vue"
 
 #: ../index.rst:30
 msgid ":ref:`How to contribute <contribute>`"
