@@ -1,24 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
-# BY-SA 4.0
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0
 # This file is distributed under the same license as the Fanaka package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# evildmp <daniele@vurt.org>, 2025
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Fanaka \n"
+"Project-Id-Version: Fanaka\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-16 23:05+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: fr\n"
-"Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"PO-Revision-Date: 2025-08-16 20:21+0000\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2025\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/296950/fr/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../index.rst:118
 msgid "Into software via Economics and Statistics"
@@ -28,7 +29,7 @@ msgstr ""
 msgid "From Mechanical Engineering to software documentation"
 msgstr ""
 
-#: ../index.rst:-1
+#: ../index.rst-1
 msgid ""
 "Fanaka is a handbook for African success in the international software "
 "industry"
@@ -40,9 +41,11 @@ msgstr ""
 
 #: ../index.rst:11
 msgid ""
-"Fanaka is a handbook for prospective and early-career African "
-"professionals in the international software industry."
+"Fanaka is a handbook for prospective and early-career African professionals "
+"in the international software industry."
 msgstr ""
+"Fanaka est un guide pour les Africains au début de leur carrière "
+"professionelle dans l'industrie technologique à l'internationale."
 
 #: ../index.rst:12
 msgid ""
@@ -55,18 +58,20 @@ msgid ""
 "*Fanaka* means *success* in Kiswahili, one of the most-widely spoken "
 "languages in Africa."
 msgstr ""
+"*Fanaka* signifie *succès* en kiswahili, l'une des langues les plus parlées "
+"en Afrique."
 
 #: ../index.rst:18
 msgid ""
 "It's based on years of experience: of African professionals who have "
-"successfully navigated the challenges, and also of the colleagues who "
-"have worked with them and can offer insight and advice from the other "
-"side of the table."
+"successfully navigated the challenges, and also of the colleagues who have "
+"worked with them and can offer insight and advice from the other side of the"
+" table."
 msgstr ""
 
 #: ../index.rst:22
 msgid "Opportunities"
-msgstr ""
+msgstr "Opportunités"
 
 #: ../index.rst:24
 msgid ""
@@ -76,7 +81,7 @@ msgstr ""
 
 #: ../index.rst:28
 msgid "Contribute your perspective"
-msgstr ""
+msgstr "Apportez votre point de vue"
 
 #: ../index.rst:30
 msgid ":ref:`How to contribute <contribute>`"
@@ -85,10 +90,9 @@ msgstr ""
 #: ../index.rst:32
 msgid ""
 "Africans typically speak English and other European languages to a high "
-"standard. They are served by many good universities. Reliable and "
-"reasonably fast Internet connections are available in most African "
-"cities. African time zones are ideal for remote workers in European "
-"organisations."
+"standard. They are served by many good universities. Reliable and reasonably"
+" fast Internet connections are available in most African cities. African "
+"time zones are ideal for remote workers in European organisations."
 msgstr ""
 
 #: ../index.rst:37
@@ -103,9 +107,9 @@ msgstr ""
 msgid ""
 "Relatively, their numbers in the industry are very low. That means it's "
 "harder for them to understand some of its expectations, and also for "
-"companies in the industry to understand the particular cultural contexts "
-"of African candidates. Similar gaps in familiarity and experience can "
-"make it harder for them to succeed once they are in."
+"companies in the industry to understand the particular cultural contexts of "
+"African candidates. Similar gaps in familiarity and experience can make it "
+"harder for them to succeed once they are in."
 msgstr ""
 
 #: ../index.rst:45
@@ -159,4 +163,3 @@ msgstr ""
 #: ../index.rst:126
 msgid "About this site"
 msgstr ""
-
