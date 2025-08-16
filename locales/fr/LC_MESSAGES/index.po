@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../index.rst:22
 msgid "Opportunities"
-msgstr ""
+msgstr "Opportunités"
 
 #: ../index.rst:24
 msgid ""
