@@ -58,6 +58,8 @@ msgid ""
 "*Fanaka* means *success* in Kiswahili, one of the most-widely spoken "
 "languages in Africa."
 msgstr ""
+"*Fanaka* signifie *succès* en kiswahili, l'une des langues les plus parlées "
+"en Afrique."
 
 #: ../index.rst:18
 msgid ""
