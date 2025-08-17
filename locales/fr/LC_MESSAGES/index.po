@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../index.rst:37
 msgid "Challenges"
-msgstr ""
+msgstr "Défis"
 
 #: ../index.rst:39
 msgid "At the same time, Africans also face some challenges."
