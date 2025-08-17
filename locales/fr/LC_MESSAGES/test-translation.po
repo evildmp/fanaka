@@ -3,30 +3,33 @@
 # BY-SA 4.0
 # This file is distributed under the same license as the Fanaka package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-#
+# 
+# Translators:
+# evildmp <daniele@vurt.org>, 2025
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Fanaka \n"
+"Project-Id-Version: Fanaka\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-17 21:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: fr\n"
-"Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"PO-Revision-Date: 2025-08-17 19:31+0000\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2025\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/296950/fr/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../test-translation.rst:2
-msgid "This is a test file"
-msgstr ""
+msgid "This is a testy file"
+msgstr "Should be pushed"
 
 #: ../test-translation.rst:4 ../test-translation.rst:6
 msgid "test"
-msgstr "test"
+msgstr "Push me"
 
 #: ../test-translation.rst:8
 msgid "I am a test"
@@ -34,7 +37,7 @@ msgstr "Je suis un test"
 
 #: ../test-translation.rst:10
 msgid "Test one"
-msgstr ""
+msgstr "Push me too"
 
 #: ../test-translation.rst:12
 msgid "Test two"
@@ -75,7 +78,3 @@ msgstr ""
 #: ../test-translation.rst:30
 msgid "Test eleven"
 msgstr ""
-
-#~ msgid "Test four"
-#~ msgstr ""
-
