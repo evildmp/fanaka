@@ -26,7 +26,7 @@ msgstr ""
 
 #: ../test-translation.rst:4 ../test-translation.rst:6
 msgid "test"
-msgstr ""
+msgstr "test"
 
 #: ../test-translation.rst:8
 msgid "I am a test"
