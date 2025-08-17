@@ -2,10 +2,10 @@
 # Copyright (C) 2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0
 # This file is distributed under the same license as the Fanaka package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # evildmp <daniele@vurt.org>, 2025
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -33,7 +33,7 @@ msgstr ""
 msgid ""
 "Fanaka is a handbook for African success in the international software "
 "industry"
-msgstr ""
+msgstr "Fanaka est un manuel pour la réussite africaine dans l'industrie internationale du logiciel"
 
 #: ../index.rst:7
 msgid "Fanaka"
