@@ -21,7 +21,7 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../test-translation.rst:2
-msgid "This is a testy file"
+msgid "This is a test file"
 msgstr ""
 
 #: ../test-translation.rst:4 ../test-translation.rst:6
@@ -75,4 +75,3 @@ msgstr ""
 #: ../test-translation.rst:30
 msgid "Test eleven"
 msgstr ""
-
