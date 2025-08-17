@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fanaka \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-17 17:30+0200\n"
+"POT-Creation-Date: 2025-08-17 17:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,4 +59,8 @@ msgstr ""
 
 #: ../test-translation.rst:24
 msgid "Test eight"
+msgstr ""
+
+#: ../test-translation.rst:26
+msgid "Test nine"
 msgstr ""
