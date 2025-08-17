@@ -1,7 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
 # This file is distributed under the same license as the Fanaka package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 # 
 # Translators:
 # evildmp <daniele@vurt.org>, 2025
@@ -12,12 +13,13 @@ msgstr ""
 "Project-Id-Version: Fanaka\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-16 23:05+0300\n"
-"PO-Revision-Date: 2025-08-16 20:21+0000\n"
+"PO-Revision-Date: 2025-08-17 19:31+0000\n"
 "Last-Translator: evildmp <daniele@vurt.org>, 2025\n"
 "Language-Team: French (https://app.transifex.com/danieleprocida/teams/296950/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
