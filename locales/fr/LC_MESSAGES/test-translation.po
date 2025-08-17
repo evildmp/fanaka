@@ -46,7 +46,7 @@ msgstr ""
 
 #: ../test-translation.rst:16
 msgid "Test four this project only"
-msgstr ""
+msgstr "Test quatre içi seulement"
 
 #~ msgid "Test four"
 #~ msgstr ""
