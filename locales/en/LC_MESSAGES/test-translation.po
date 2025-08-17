@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fanaka \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-17 21:05+0200\n"
+"POT-Creation-Date: 2025-08-17 22:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -24,54 +24,43 @@ msgstr ""
 msgid "This is a test file"
 msgstr ""
 
-#: ../test-translation.rst:4 ../test-translation.rst:6
+#: ../test-translation.rst:4
 msgid "test"
 msgstr ""
 
-#: ../test-translation.rst:8
-msgid "I am a test"
-msgstr ""
+#~ msgid "I am a test"
+#~ msgstr ""
 
-#: ../test-translation.rst:10
-msgid "Test one"
-msgstr ""
+#~ msgid "Test one"
+#~ msgstr ""
 
-#: ../test-translation.rst:12
-msgid "Test two"
-msgstr ""
+#~ msgid "Test two"
+#~ msgstr ""
 
-#: ../test-translation.rst:14
-msgid "Test three"
-msgstr ""
+#~ msgid "Test three"
+#~ msgstr ""
 
-#: ../test-translation.rst:16
-msgid "Test four this project only"
-msgstr ""
+#~ msgid "Test four this project only"
+#~ msgstr ""
 
-#: ../test-translation.rst:18
-msgid "Test five"
-msgstr ""
+#~ msgid "Test five"
+#~ msgstr ""
 
-#: ../test-translation.rst:20
-msgid "Test six"
-msgstr ""
+#~ msgid "Test six"
+#~ msgstr ""
 
-#: ../test-translation.rst:22
-msgid "Test seven"
-msgstr ""
+#~ msgid "Test seven"
+#~ msgstr ""
 
-#: ../test-translation.rst:24
-msgid "Test eight"
-msgstr ""
+#~ msgid "Test eight"
+#~ msgstr ""
 
-#: ../test-translation.rst:26
-msgid "Test nine"
-msgstr ""
+#~ msgid "Test nine"
+#~ msgstr ""
 
-#: ../test-translation.rst:28
-msgid "Test ten"
-msgstr ""
+#~ msgid "Test ten"
+#~ msgstr ""
 
-#: ../test-translation.rst:30
-msgid "Test eleven"
-msgstr ""
+#~ msgid "Test eleven"
+#~ msgstr ""
+
