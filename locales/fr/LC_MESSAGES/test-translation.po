@@ -30,5 +30,5 @@ msgstr ""
 
 #: ../test-translation.rst:8
 msgid "I am a test"
-msgstr ""
+msgstr "Je suis un test"
 
