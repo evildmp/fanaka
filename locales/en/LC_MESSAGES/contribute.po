@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../contribute.rst:5
+msgid "Contribute to this site"
+msgstr ""
+
+#: ../contribute.rst:7
+msgid ""
+"In order to be an effective guide for others, **this site needs to "
+"include the advice, experiences, perspectives and insights of African "
+"professionals in the software industry**."
+msgstr ""
+
+#: ../contribute.rst:9
+msgid ""
+"The site is an open-source project, and all contributions will be "
+"credited (unless you prefer to be anonymous). If you have an idea for "
+"something to be included but you aren't sure whether it's the right kind "
+"of thing, or how to write it, get in touch to ask."
+msgstr ""
+
+#: ../contribute.rst:11
+msgid ""
+"**Suggestions and requests** (for example if you have a question related "
+"to software careers) are also welcomed - use GitHub issues or email to "
+"send them in."
+msgstr ""
+
+#: ../contribute.rst:15
+msgid "How to contribute"
+msgstr ""
+
+#: ../contribute.rst:17
+msgid "There are multiple options."
+msgstr ""
+
+#: ../contribute.rst:19
+msgid ""
+"**Submit a pull request**: See `the project readme file "
+"<https://github.com/evildmp/fanaka/blob/main/readme.rst>`_ for details of"
+" how to build the site locally."
+msgstr ""
+
+#: ../contribute.rst:21
+msgid ""
+"**Edit the page in your browser**: At the top of every page is a an edit "
+"icon, that will take you to the file for that page on GitHub (you'll need"
+" to be signed in for this). You will need to create a fork of the "
+"repository, if you haven't done so already. Make your changes, and hit "
+"**Commit changes...**. GitHub will take you through the process of making"
+" a pull request to incorporate the changes you have made."
+msgstr ""
+
+#: ../contribute.rst:23
+msgid ""
+"**Send your contribution or suggestion as a GitHub issue** (`create a new"
+" issue <https://github.com/evildmp/fanaka/issues/new>`_)"
+msgstr ""
+
+#: ../contribute.rst:25
+msgid ""
+"**Send your contribution or suggestion by email** (address on the `GitHub"
+" repository page  <https://github.com/evildmp/fanaka/>`_). The other "
+"methods described above will mean that your contribution will be "
+"associated with you, so do this if you would prefer that it isn't."
+msgstr ""
+
+#: ../contribute.rst:29
+msgid "Contributors"
+msgstr ""
+
+#: ../contribute.rst:31
+msgid "`Daniele Procida <https://vurt.org>`_"
+msgstr ""
+
+#: ../contribute.rst:32
+msgid "`Stephen Mwangi <https://www.stephenmwangi.com>`_"
+msgstr ""
+
+#: ../contribute.rst:33
+msgid "`Sharon Koech <https://www.linkedin.com/in/skoech/>`_"
+msgstr ""
+
+#: ../contribute.rst:34
+msgid "`Charles Odada <https://www.linkedin.com/in/charlesodada/>`_"
+msgstr ""
+
+#: ../contribute.rst:39
+msgid ""
+"Fanaka © 2025 by Daniele Procida and other contributors is licensed under"
+" CC BY-SA 4.0"
+msgstr ""
+

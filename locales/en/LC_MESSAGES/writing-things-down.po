@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../writing-things-down.rst:5
+msgid "How to write things down"
+msgstr ""
+
+#: ../writing-things-down.rst:9
+msgid "A technique for note-taking"
+msgstr ""
+
+#: ../writing-things-down.rst:10
+msgid "Writing things down is *good*."
+msgstr ""
+
+#: ../writing-things-down.rst:12
+msgid ""
+"There will be things that you want to remember, say and ask about, and "
+"taking the trouble to write them down will help ensure that in the right "
+"moment, you actually do."
+msgstr ""
+
+#: ../writing-things-down.rst:18
+msgid "Notes and sentences"
+msgstr ""
+
+#: ../writing-things-down.rst:20
+msgid ""
+"There is a particular way of writing things down that can make them much "
+"more effective."
+msgstr ""
+
+#: ../writing-things-down.rst:22
+msgid "First write them as **short notes**."
+msgstr ""
+
+#: ../writing-things-down.rst:24
+msgid "Then write them again, putting them into **complete sentences**."
+msgstr ""
+
+#: ../writing-things-down.rst:26
+msgid ""
+"There is real power and value in doing this. When you look at a note you "
+"have just quickly scribbled down, in your mind it will represent a fully-"
+"formed thought - and you will think that you have written a useful note."
+msgstr ""
+
+#: ../writing-things-down.rst:28
+msgid ""
+"Later, when you need to express the thought properly in a real live "
+"situation, you will discover that the precise thought eludes you, and you"
+" will struggle to express it in any satisfactory way; it will come out "
+"broken and weak."
+msgstr ""
+
+#: ../writing-things-down.rst:30
+msgid ""
+"Instead if you then also write it out as a full sentence, you'll have "
+"that in your mind and on paper too."
+msgstr ""
+
+#: ../writing-things-down.rst:32
+msgid ""
+"Quite likely, that exact sentence won't be the exact one you need when "
+"the time comes - but it will be far easier to shift from that to another "
+"fluent expression of the idea that it will be to make it come to life "
+"from short notes."
+msgstr ""
+
+#: ../writing-things-down.rst:34
+msgid ""
+"Yes, it takes a lot longer to do it this way, but the first time you need"
+" to reach for a sentence, and find it there ready to hand - whether in "
+"your mind or on the page - you will be grateful."
+msgstr ""
+
+#: ../writing-things-down.rst:36
+msgid ""
+"Writing things down like this is a form of *practice*, rehearsal that "
+"makes you good at it."
+msgstr ""
+

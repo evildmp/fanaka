@@ -1,0 +1,428 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../interview-success-performance.rst:3
+msgid "Interviews - performance"
+msgstr ""
+
+#: ../interview-success-performance.rst:6
+msgid "Being present, alive and active"
+msgstr ""
+
+#: ../interview-success-performance.rst:8
+msgid ""
+"One of the most important things to manage in an interview is your own "
+"posture and role in it."
+msgstr ""
+
+#: ../interview-success-performance.rst:10
+msgid ""
+"Far too many candidates expect it to be something like an examination at "
+"school: they ask you the questions and you will do well to the extent "
+"that you come up with the right answers."
+msgstr ""
+
+#: ../interview-success-performance.rst:12
+msgid ""
+"Some of it *is* similar. You will be asked questions. If you prepare "
+"well, you'll do better. There are definitely many right and wrong "
+"answers. If you are asked a question to test some required knowledge or "
+"insight, you either have it or you don't."
+msgstr ""
+
+#: ../interview-success-performance.rst:14
+msgid ""
+"But in most interviews, most of it is about discovering who you are, or "
+"rather, who you will be if you get the job. *Doing well in the interview "
+"means showing that you are a person who will do well in the role.*"
+msgstr ""
+
+#: ../interview-success-performance.rst:16
+msgid ""
+"**A job interview is a business meeting.** Prepare for one. You are not "
+"being inspected or examined, as if you were some merchandise. You are "
+"coming to the table as a potential partner, a colleague, a team-mate, "
+"because they have needs and you have skills and abilities that could meet"
+" those needs."
+msgstr ""
+
+#: ../interview-success-performance.rst:20
+msgid "Applicant vs supplicant"
+msgstr ""
+
+#: ../interview-success-performance.rst:24
+msgid "Indeed there is an imbalance of power."
+msgstr ""
+
+#: ../interview-success-performance.rst:26
+msgid ""
+"They are bigger than you, they have more money, there are more of them, "
+"and of course, you applied to work with them, not the other way round. "
+"It's too easy for candidates to adopt a passive posture."
+msgstr ""
+
+#: ../interview-success-performance.rst:28
+msgid ""
+"Remember, you are an *applicant*, not a *supplicant*. They may have set "
+"the agenda, but they don't totally own it. You have an active role to "
+"play. You need to be fully present in the encounter. You will be amazed "
+"how much an interviewee who takes an active role in an interview can "
+"influence its course."
+msgstr ""
+
+#: ../interview-success-performance.rst:34
+msgid "Needs, value, demonstration"
+msgstr ""
+
+#: ../interview-success-performance.rst:36
+msgid ""
+"In an interview, you must **demonstrate** how you can bring **value** "
+"that meets their **needs**."
+msgstr ""
+
+#: ../interview-success-performance.rst:38
+msgid "So, three questions for you."
+msgstr ""
+
+#: ../interview-success-performance.rst:40
+msgid ""
+"**What do you think they need?** The nice thing about their needs is that"
+" mostly, they'll tell you what they are! They'll do that right in the job"
+" advertisement, for example."
+msgstr ""
+
+#: ../interview-success-performance.rst:44
+msgid ""
+"Sometimes, it can also help to do a bit of :ref:`reading between the "
+"lines <between-the-lines>` to get at what they need - but *always start "
+"with what they say*."
+msgstr ""
+
+#: ../interview-success-performance.rst:46
+msgid ""
+"You might judge that one of the problems they have is poor testing "
+"discipline in their engineering team - they need *someone to improve the "
+"team's testing practices*, not just someone who writes good tests "
+"themselves. Write that down, so that it's staring you in the face."
+msgstr ""
+
+#: ../interview-success-performance.rst:48
+msgid ""
+"**What value do you have that can meet their needs?** Now think about "
+"yourself, and what you have that connects to those needs."
+msgstr ""
+
+#: ../interview-success-performance.rst:50
+msgid ""
+"You might have many good qualities, but you need to identify the ones "
+"that will matter to them; write those down too. Perhaps you think: *I am "
+"pretty good at getting people to do new things*."
+msgstr ""
+
+#: ../interview-success-performance.rst:52
+msgid ""
+"**How can you demonstrate that you'll be able to bring that value?** The "
+"key word here is *demonstrate*. For example, perhaps in a previous role, "
+"you got the whole office to embrace recycling, despite initial skepticism"
+" from management and resistance from some colleagues - that shows your "
+"ability to bring people along with you."
+msgstr ""
+
+#: ../interview-success-performance.rst:54
+msgid ""
+"It's useless to *tell* them \"I'll be very successful at changing a "
+"team's attitude towards testing\". You have to *show* them something."
+msgstr ""
+
+#: ../interview-success-performance.rst:58
+msgid ""
+"This uses two essential interview techniques you need to get used to "
+"using:"
+msgstr ""
+
+#: ../interview-success-performance.rst:60
+msgid ":ref:`using stories <vurt:interviewing-rules-tell-stories>`"
+msgstr ""
+
+#: ../interview-success-performance.rst:61
+msgid ":ref:`demonstrating value <vurt:interviewing-rules-demonstrate-value>`"
+msgstr ""
+
+#: ../interview-success-performance.rst:63
+msgid "Here's another example:"
+msgstr ""
+
+#: ../interview-success-performance.rst:65
+msgid ""
+"One of the things you read is that they want to establish *more rigorous "
+"platform operating procedures* (**need**)."
+msgstr ""
+
+#: ../interview-success-performance.rst:66
+msgid ""
+"You can help meet that need, because you *enjoy creating documentation, "
+"and you are good at it* (**value**)."
+msgstr ""
+
+#: ../interview-success-performance.rst:67
+msgid ""
+"What could show that? Your story of *how you wrote up the post-mortem "
+"following a security incident, and used it to create the standard "
+"security incident operating procedure* (**demonstration**)."
+msgstr ""
+
+#: ../interview-success-performance.rst:71
+msgid ""
+"And that way you can end up with something like the table below, a tool "
+"to have at your fingertips when you need it - especially valuable to have"
+" as an aide-memoire in an interview situation."
+msgstr ""
+
+#: ../interview-success-performance.rst:78
+msgid "their needs"
+msgstr ""
+
+#: ../interview-success-performance.rst:79
+msgid "value I can bring"
+msgstr ""
+
+#: ../interview-success-performance.rst:80
+msgid "demonstration"
+msgstr ""
+
+#: ../interview-success-performance.rst:81
+msgid "someone to improve the team's testing practices"
+msgstr ""
+
+#: ../interview-success-performance.rst:82
+msgid "I am pretty good at getting people to do new things"
+msgstr ""
+
+#: ../interview-success-performance.rst:83
+msgid "how I got the whole office to embrace recycling"
+msgstr ""
+
+#: ../interview-success-performance.rst:84
+msgid "more rigorous platform operating procedures"
+msgstr ""
+
+#: ../interview-success-performance.rst:85
+msgid "I enjoy creating documentation, and I am good at it"
+msgstr ""
+
+#: ../interview-success-performance.rst:86
+msgid ""
+"how I wrote up the post-mortem following a security incident, and used it"
+" to create what is now our standard operating procedure for responding to"
+" security incidents"
+msgstr ""
+
+#: ../interview-success-performance.rst:91
+msgid "Templates and resources"
+msgstr ""
+
+#: ../interview-success-performance.rst:93
+msgid ""
+"`Needs, values, demonstration sheet  "
+"<https://docs.google.com/spreadsheets/d"
+"/1smDc1j5_1DZePYdC08cXBOZUNEvff5G8YECh-"
+"k_MiEI/edit?gid=260896449#gid=260896449>`_"
+msgstr ""
+
+#: ../interview-success-performance.rst:95
+msgid ""
+"You will soon discover which particular examples resonate with other "
+"people. Be prepared to be be surprised -- the ones that seem most "
+"impressive to *you* won't always be the ones that others get excited "
+"about."
+msgstr ""
+
+#: ../interview-success-performance.rst:97
+msgid ""
+"It takes a while to get good at thinking like this. Do it early and do it"
+" often. If the first time you do it is in an actual interview situation, "
+"that's much too late."
+msgstr ""
+
+#: ../interview-success-performance.rst:101
+msgid "Bad interview advice"
+msgstr ""
+
+#: ../interview-success-performance.rst:103
+msgid ""
+"Let's get some bad advice out of the way. Bad advice is not given in "
+"order to cause harm. It's well-intentioned, and it represents natural "
+"anxieties, inclinations and even values, which is what makes it so "
+"problematic - we often see bad advice and think: *yes, that makes sense*."
+msgstr ""
+
+#: ../interview-success-performance.rst:107
+msgid "Being yourself"
+msgstr ""
+
+#: ../interview-success-performance.rst:109
+msgid ""
+"You will read, over and over again, that you should \"just be yourself in"
+" the interview\"."
+msgstr ""
+
+#: ../interview-success-performance.rst:111
+msgid ""
+"Don't fall for this. This advice encourages you to take a passive "
+"approach, trusting that things will work out because you are the right "
+"kind of person."
+msgstr ""
+
+#: ../interview-success-performance.rst:115
+msgid "Performance"
+msgstr ""
+
+#: ../interview-success-performance.rst:117
+msgid ""
+"The preparation you do is for your performance in your interview. That's "
+"performance as in \"performance in an examination\" or \"performance on "
+"the sports field\"."
+msgstr ""
+
+#: ../interview-success-performance.rst:119
+msgid ""
+"Would you go into an examination or a tough competition \"just being "
+"yourself?\" Presumably not. The people who do that don't do very well. "
+"The ones who do well are the ones who have prepared for that moment, so "
+"that when it comes, they are ready to be the version of themselves that "
+"can succeed in the exam or the competition."
+msgstr ""
+
+#: ../interview-success-performance.rst:121
+msgid ""
+"It's the same in a job interview. The ones who do well are the ones who "
+"have prepared, so that in the hour of the interview they can step out of "
+"where they are now, to where they are going to be."
+msgstr ""
+
+#: ../interview-success-performance.rst:123
+msgid ""
+"To perform well in an interview is not to deliver a well-rehearsed "
+"speech. It's to have thought about and thought through the challenge, "
+"imagining its possibilities and the responses you would offer in return, "
+"and to think about what that will demonstrate to your interviewer."
+msgstr ""
+
+#: ../interview-success-performance.rst:125
+msgid ""
+"Performance is not who we *are*, but what we *do*. It's separate from us,"
+" and can be measured, or at least assessed and judged."
+msgstr ""
+
+#: ../interview-success-performance.rst:127
+msgid ""
+"Don't settle for \"just\" doing or being anything anything. Think about "
+"your performance, and what the interviewer will have to see and measure."
+msgstr ""
+
+#: ../interview-success-performance.rst:131
+msgid "Selling yourself"
+msgstr ""
+
+#: ../interview-success-performance.rst:133
+msgid ""
+"\"How do I sell myself in a job interview?\" is a common question. And "
+"you will find hundreds of articles on how to sell yourself:"
+msgstr ""
+
+#: ../interview-success-performance.rst:135
+msgid ""
+"Like a marketer or salesperson, your focus is on promoting yourself as "
+"the product the hiring manager should buy."
+msgstr ""
+
+#: ../interview-success-performance.rst:137
+msgid "or:"
+msgstr ""
+
+#: ../interview-success-performance.rst:139
+msgid ""
+"To better sell yourself, in a job interview, become a salesperson. What "
+"you are selling is yourself - you are the product."
+msgstr ""
+
+#: ../interview-success-performance.rst:141
+msgid ""
+"This is actually atrocious advice. It's a terrible way to think about "
+"approaching an interview. You are not a *thing*. **Do not try to sell "
+"yourself.** Put this idea right out of your mind."
+msgstr ""
+
+#: ../interview-success-performance.rst:143
+msgid ""
+"It is a very peculiar experience when a candidate starts to do this. They"
+" will judge a certain moment in the conversation to be the right one for "
+"their sales pitch, take a breath, and dive into it."
+msgstr ""
+
+#: ../interview-success-performance.rst:145
+msgid "You can find advice *literally* to say things like:"
+msgstr ""
+
+#: ../interview-success-performance.rst:147
+msgid ""
+"My drive to succeed succeed and my ability to learn quickly, combined "
+"with my proactive attitude, make me confident I’ll be able to tackle the "
+"challenges of this role."
+msgstr ""
+
+#: ../interview-success-performance.rst:149
+msgid ""
+"This is a completely weird thing for a human being to say. It's "
+"irritating, even embarrassing for the interviewer. **Nobody wants to hear"
+" you selling yourself.** Your interviewers will not welcome your "
+"\"elevator pitch\", nor you \"impactful closing statement\"."
+msgstr ""
+
+#: ../interview-success-performance.rst:153
+msgid "What's in common?"
+msgstr ""
+
+#: ../interview-success-performance.rst:155
+msgid ""
+"What's wrong with both these examples of bad advice is that they imagine "
+"the candidate as some kind of *thing*."
+msgstr ""
+
+#: ../interview-success-performance.rst:157
+msgid ""
+"**You are not a sample of goods being measured, weighed or inspected, or "
+"sold.** You are a person, and in the interview you need to be the person "
+"you are going to be, in the future, *in that particular job*, and that is"
+" how you need to think about yourself, during the interview and during "
+"your preparation for it."
+msgstr ""
+
+#: ../interview-success-performance.rst:159
+msgid ""
+"And this is probably the single most significant thing that a candidate "
+"can do to ensure success: not to go in with the hope that what you put on"
+" the table will be be attractive, and to be concerned with that, but to "
+"**go in as a participant**, with a shared responsibility for making this "
+"a successful encounter."
+msgstr ""
+

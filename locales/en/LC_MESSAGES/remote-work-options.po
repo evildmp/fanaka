@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../remote-work-options.rst:5
+msgid "Remote work options"
+msgstr ""
+
+#: ../remote-work-options.rst:9
+msgid ""
+"Remote work offers Africans a fairer opportunity to compete in a global "
+"jobs market."
+msgstr ""
+
+#: ../remote-work-options.rst:11
+msgid "Different kinds of remote"
+msgstr ""
+
+#: ../remote-work-options.rst:13
+msgid ""
+"Many companies around the world advertise remote jobs, but not all remote"
+" jobs are the same kind of remote. It's possible to waste a lot of time "
+"looking through job advertisements, and even applying for them, because "
+"the listings don't make it completely clear what's required."
+msgstr ""
+
+#: ../remote-work-options.rst:18
+msgid "Contribute your perspective"
+msgstr ""
+
+#: ../remote-work-options.rst:20
+msgid ""
+"Do you work remotely for an international employer What has your "
+"experience been?"
+msgstr ""
+
+#: ../remote-work-options.rst:22
+msgid ":ref:`How to contribute <contribute>`"
+msgstr ""
+
+#: ../remote-work-options.rst:26
+msgid "Globally remote versus working from home"
+msgstr ""
+
+#: ../remote-work-options.rst:28
+msgid ""
+"Be aware that many jobs are advertised as remote, and on inspection it "
+"turns out that they really they just mean \"working from home\" in a "
+"particular country or even state. (US-based companies are particularly "
+"prone to this, as if they forget sometimes that other countries exist.)"
+msgstr ""
+
+#: ../remote-work-options.rst:30
+msgid ""
+"Sometimes a company is able to hire people across the world, but only in "
+"particular countries (where for example they have an office or are "
+"represented by an agency)."
+msgstr ""
+
+#: ../remote-work-options.rst:32
+msgid ""
+"*Globally remote* generally does mean anywhere in the world, though there"
+" will likely be some constraints on hiring in certain countries. For "
+"example, international sanctions, or just logistical difficulties, mean "
+"that it can be very difficult to get payment through to employees in some"
+" countries."
+msgstr ""
+
+#: ../remote-work-options.rst:34
+msgid "A particular job might have a time zone requirement:"
+msgstr ""
+
+#: ../remote-work-options.rst:36
+msgid "EMEA: Europe, Middle East, Africa"
+msgstr ""
+
+#: ../remote-work-options.rst:37
+msgid "APAC: Asia-Pacific"
+msgstr ""
+
+#: ../remote-work-options.rst:38
+msgid "AMER: Americas"
+msgstr ""
+
+#: ../remote-work-options.rst:40
+msgid ""
+"If that's the case, it's probably a hard requirement, and for an African "
+"living in Africa only jobs in EMEA are likely to be suitable. But, "
+"someone at the edge of West Africa or East Africa might just be "
+"considered for a job in AMEA or APAC respectively."
+msgstr ""
+
+#: ../remote-work-options.rst:44
+msgid "Employment arrangements"
+msgstr ""
+
+#: ../remote-work-options.rst:47
+msgid "Employee or contractor"
+msgstr ""
+
+#: ../remote-work-options.rst:49
+msgid ""
+"An employer isn't just a company that hands over money in exchange for "
+"work. It's a legal arrangement. In most countries, an employer must be a "
+"legal entity in that country, pay local taxes on your salary, meet legal "
+"requirements (like having employer's insurance) and so on. Almost no "
+"companies are so large and globally wide-spread that they can do this for"
+" every country."
+msgstr ""
+
+#: ../remote-work-options.rst:51
+msgid ""
+"In many cases, the actual legal arrangement that will hold is between a "
+"company and a *contractor* (*i.e.* you). You will have a contract to do "
+"work, but you won't formally be employed."
+msgstr ""
+
+#: ../remote-work-options.rst:53
+msgid ""
+"You might in certain countries be required to set up your own contracting"
+" company, that works for the remote employer, and employs you."
+msgstr ""
+
+#: ../remote-work-options.rst:55
+msgid ""
+"Or, there might be an arrangement with a local agency that acts on behalf"
+" of the employer, and through which you receive your pay (:ref:`remote-"
+"outsourcing`, below)."
+msgstr ""
+
+#: ../remote-work-options.rst:57
+msgid ""
+"These arrangements are more complex than simply being employed, and you "
+"also have fewer rights, but a respectable employer will make decent "
+"efforts to ensure that you enjoy fair treatment and are not a second-"
+"class kind of employee."
+msgstr ""
+
+#: ../remote-work-options.rst:63
+msgid "Outsourcing arrangements"
+msgstr ""
+
+#: ../remote-work-options.rst:67
+msgid ""
+"You **must** seek and take notice of other people's experience with "
+"particular outsourcing companies."
+msgstr ""
+
+#: ../remote-work-options.rst:69
+msgid ""
+"In an outsourcing arrangement, a company - sometimes itself a global "
+"company or one covering a large global region, or one dedicated to a "
+"particular country - helps another company meets its staffing needs by "
+"handling the logistics of employing people in other countries. There are "
+"good ones, that have been the foundation for real, sustainable careers, "
+"and there are some exploitative ones. Do your research."
+msgstr ""
+
+#: ../remote-work-options.rst:72
+msgid ""
+"Outsourcing companies are in fact not just for remote workers - some will"
+" also provide office space and facilities, and some outsourcing means "
+"working in a local office with colleagues, all dedicated to serving the "
+"the same foreign company."
+msgstr ""
+
+#: ../remote-work-options.rst:76
+msgid "Freelance agencies"
+msgstr ""
+
+#: ../remote-work-options.rst:78
+msgid ""
+"Another arrangement is a freelancing agency, a company that has a pool of"
+" engineers and other software professionals on their books, for temporary"
+" contracts. It's a different kind of relationship, better suited to the "
+"seasoned professional who is able to step into an unknown context and "
+"begin contributing almost immediately than to a junior."
+msgstr ""
+

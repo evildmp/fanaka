@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Daniele Procida and contributors, licensed under CC
+# BY-SA 4.0
+# This file is distributed under the same license as the Fanaka package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanaka \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-16 23:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../resources.rst:3
+msgid "Templates and resources"
+msgstr ""
+
+#: ../resources.rst:5
+msgid ""
+"`Job search spreadsheet <https://docs.google.com/spreadsheets/d"
+"/1smDc1j5_1DZePYdC08cXBOZUNEvff5G8YECh-k_MiEI/edit?usp=sharing>`_ - see "
+":ref:`finding-jobs-records`"
+msgstr ""
+
+#: ../resources.rst:7
+msgid ""
+"`Needs, values, demonstration sheet  "
+"<https://docs.google.com/spreadsheets/d"
+"/1smDc1j5_1DZePYdC08cXBOZUNEvff5G8YECh-"
+"k_MiEI/edit?gid=260896449#gid=260896449>`_ - see :ref:`Needs, value, "
+"demonstration <interview-success-needs-value-demonstration-table>`"
+msgstr ""
+
+#: ../resources.rst:9
+msgid ""
+"`Professional development plan template "
+"<https://docs.google.com/document/d/11hC8Sx4qUhNY1zPxlWaEE80l-"
+"4dGMA8cmnDPy4N41Z4/edit?usp=sharing>`_ - see :ref:`plans-writing-out`"
+msgstr ""
+
+#: ../resources.rst:11
+msgid ""
+"`Effort/value record spreadsheet "
+"<https://docs.google.com/spreadsheets/d/15XS3jw1OelcL3st2gSlpoH1nD4Rw7-D4H_ZTq5XMrtA/edit?usp=sharing>`_"
+" - see :ref:`recording-value`"
+msgstr ""
+
+#: ../resources.rst:13
+msgid ""
+"`Feedback record sheet "
+"<https://docs.google.com/spreadsheets/d/1KTWS_z8Mcpm4LeY09-eUxCbuJPhc6zDmv1mXgiq7rE0/edit?usp=sharing>`_"
+" - see :ref:`dealing-with-feedback-recording`"
+msgstr ""
+
