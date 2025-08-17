@@ -37,7 +37,7 @@ msgstr "Fanaka est un manuel pour la réussite africaine dans l'industrie intern
 
 #: ../index.rst:7
 msgid "Fanaka"
-msgstr ""
+msgstr "Fanaka"
 
 #: ../index.rst:11
 msgid ""
