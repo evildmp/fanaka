@@ -10,7 +10,7 @@ Your CV
 
     In the USA, a CV is called a *resumé*.
 
-You need to pay attention to *what your CV says*, but also *how it says it*.
+You need to pay attention to *what your CV says*, and also *how it says it*.
 
 ..  sidebar::
 
@@ -79,7 +79,7 @@ Phone number
 
 Format your phone number, for example *+233 23 123456*, in such a way that an international caller can enter it directly.
 
-Many in Africa will use have multiple phone numbers by default. List two if you really have to, but better to keep it simple with one for an international CV. (It's quite unlikely that anyone will actually call you from abroad anyway.)
+Many in Africa will have multiple phone numbers by default. List two if you really have to, but better to keep it simple with one for an international CV. (It's quite unlikely that anyone will actually call you from abroad anyway.)
 
 
 Other personal information
