@@ -10,7 +10,7 @@ Your CV
 
     In the USA, a CV is called a *resumé*.
 
-You need to pay attention to *what your CV says*, and also *how it says it*.
+You need to pay attention to *what your CV says*, but also *how it says it*.
 
 ..  sidebar::
 
